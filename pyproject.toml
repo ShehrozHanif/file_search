@@ -1,0 +1,16 @@
+[project]
+name = "file-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.5.5",
+    "openai-agents>=0.0.14",
+    "openpyxl>=3.1.5",
+    "pdfminer-six>=20250506",
+    "pymupdf>=1.25.5",
+    "python-docx>=1.1.2",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+]
